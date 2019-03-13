@@ -1,1 +1,1 @@
-Get full line in C coding sample
+Get full line in C coding sample.
