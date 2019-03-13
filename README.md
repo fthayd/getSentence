@@ -4,8 +4,8 @@ gcc -o getSentence getSentence.c
 
 ./getSentence 
 
-c
 
+c
 word
 
 input sentences but less then 100 char ;)
